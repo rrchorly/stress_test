@@ -1,0 +1,3 @@
+packages:
+  - git: https://gitlab.com/thesharinggroup/public/bi/dbt/tsg_utils.git
+    revision: "prerelease"
